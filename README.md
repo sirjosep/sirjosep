@@ -17,6 +17,8 @@
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="45"/> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/> 
 <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="45" height="45"/> 
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="php" width="45" height="45"/> 
+<img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="php" width="45" height="45"/> 
 </p>
 
 # <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> Connect with me 
